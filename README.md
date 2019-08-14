@@ -14,7 +14,7 @@ It is divided into 3 parts,
 
    *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*
 
-1. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** ICML 2019. [[paper]](https://arxiv.org/pdf/1809.01093.pdf)
+1. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** ICML 2019. [[paper]](https://arxiv.org/pdf/1809.01093.pdf) [[code]](https://github.com/abojchevski/node_embedding_attack)
 
    *Aleksandar Bojchevski, Stephan Günnemann.*
 
@@ -76,4 +76,6 @@ It is divided into 3 parts,
 1. **Adversarial Attack and Defense on Graph Data: A Survey.** arviv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf)
 
     *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li.*
+    
+### Relevant Workshops
 
