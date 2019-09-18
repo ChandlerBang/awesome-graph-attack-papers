@@ -6,6 +6,10 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
+1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning** NeurIPS 2019. 
+
+   *Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh.*
+
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.** IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf)
 
    *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*
@@ -22,6 +26,14 @@ It is divided into 3 parts,
 
    *Daniel Zugner, Stephan Gunnemann.*
 
+1. **Attacking Graph Convolutional Networks via Rewiring.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1906.03750.pdf)
+
+   *Yao Ma, Suhang Wang, Lingfei Wu, Jiliang Tang.*
+
+1. **The General Black-box Attack Method for Graph Neural Networks.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)
+
+   *Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang.*
+   
 1. **Adversarial Attack on Graph Structured Data.** ICML 2018. [[paper]](https://arxiv.org/pdf/1806.02371.pdf) [[code]](https://github.com/Hanjun-Dai/graph_adversarial_attack)
 
    *Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song.*
@@ -30,15 +42,12 @@ It is divided into 3 parts,
 
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann*
 
-1. **Attacking Graph Convolutional Networks via Rewiring.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1906.03750.pdf)
-
-   *Yao Ma, Suhang Wang, Lingfei Wu, Jiliang Tang.*
-
-1. **The General Black-box Attack Method for Graph Neural Networks.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)
-
-   *Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang.*
 
 ## Defense
+1. **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning** Arxiv 2019. [[paper]](https://arxiv.org/pdf/1908.07558.pdf)
+
+   *Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang*
+  
 1. **Robust Graph Convolutional Networks Against Adversarial Attacks.** KDD 2019. [[paper]](http://pengcui.thumedialab.com/papers/RGCN.pdf) 
 
    *Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu.*
