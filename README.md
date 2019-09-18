@@ -6,7 +6,7 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
-1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning** NeurIPS 2019. 
+1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. 
 
    *Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh.*
 
@@ -44,7 +44,7 @@ It is divided into 3 parts,
 
 
 ## Defense
-1. **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning** Arxiv 2019. [[paper]](https://arxiv.org/pdf/1908.07558.pdf)
+1. **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning.** Arxiv 2019. [[paper]](https://arxiv.org/pdf/1908.07558.pdf)
 
    *Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang*
   
@@ -52,7 +52,7 @@ It is divided into 3 parts,
 
    *Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu.*
 
-1. **Certifiable Robustness and Robust Training for Graph Convolutional Networks** KDD 2019. [[paper]](https://arxiv.org/pdf/1906.12269.pdf) [[code]](https://github.com/danielzuegner/robust-gcn)
+1. **Certifiable Robustness and Robust Training for Graph Convolutional Networks.** KDD 2019. [[paper]](https://arxiv.org/pdf/1906.12269.pdf) [[code]](https://github.com/danielzuegner/robust-gcn)
 
    *Daniel Zügner Stephan Günnemann*
 
