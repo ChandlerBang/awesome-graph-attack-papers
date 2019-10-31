@@ -6,6 +6,10 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
+1. **Multiscale Evolutionary Perturbation Attack on Community Detection.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09741.pdf)
+
+   *Jinyin Chen, Yixian Chen, Lihong Chen, Minghao Zhao, and Qi Xuan.*
+
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. 
 
    *Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh.*
@@ -44,9 +48,17 @@ It is divided into 3 parts,
 
 
 ## Defense
-1. **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning.** Arxiv 2019. [[paper]](https://arxiv.org/pdf/1908.07558.pdf)
+1. **Edge Dithering for Robust Adaptive Graph Convolutional Networks.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09590.pdf)
 
-   *Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang*
+   *Vassilis N. Ioannidis, Georgios B. Giannakis.*
+   
+1. **GraphSAC: Detecting anomalies in large-scale graphs.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09589.pdf)
+
+   *Vassilis N. Ioannidis, Dimitris Berberidis, Georgios B. Giannakis.*
+   
+1. **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning.** WSDM 2020. [[paper]](https://arxiv.org/pdf/1908.07558.pdf)
+
+   *Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang.*
   
 1. **Robust Graph Convolutional Networks Against Adversarial Attacks.** KDD 2019. [[paper]](http://pengcui.thumedialab.com/papers/RGCN.pdf) 
 
@@ -54,7 +66,7 @@ It is divided into 3 parts,
 
 1. **Certifiable Robustness and Robust Training for Graph Convolutional Networks.** KDD 2019. [[paper]](https://arxiv.org/pdf/1906.12269.pdf) [[code]](https://github.com/danielzuegner/robust-gcn)
 
-   *Daniel Zügner Stephan Günnemann*
+   *Daniel Zügner Stephan Günnemann.*
 
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**  IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf)
 
@@ -82,6 +94,10 @@ It is divided into 3 parts,
 
 
 ## Surveys
+1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review.** arxiv, 2019. [[paper]](https://arxiv.org/pdf/1909.08072.pdf)
+
+   *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain*
+
 1. **Adversarial Attack and Defense on Graph Data: A Survey.** arviv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf)
 
     *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li.*
