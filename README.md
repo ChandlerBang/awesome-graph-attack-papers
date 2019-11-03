@@ -44,10 +44,14 @@ It is divided into 3 parts,
 
 1. **Adversarial Attacks on Neural Networks for Graph Data.** KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
-   *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann*
+   *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*
 
 
 ## Defense
+1. **Certifiable Robustness to Graph Perturbations.** NeurIPS 2019. [[paper]](https://arxiv.org/pdf/1910.14356.pdf)
+
+   *Aleksandar Bojchevski, Stephan Günnemann.*
+
 1. **Edge Dithering for Robust Adaptive Graph Convolutional Networks.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09590.pdf)
 
    *Vassilis N. Ioannidis, Georgios B. Giannakis.*
@@ -55,11 +59,11 @@ It is divided into 3 parts,
 1. **GraphSAC: Detecting anomalies in large-scale graphs.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09589.pdf)
 
    *Vassilis N. Ioannidis, Dimitris Berberidis, Georgios B. Giannakis.*
-   
+
 1. **Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning.** WSDM 2020. [[paper]](https://arxiv.org/pdf/1908.07558.pdf)
 
    *Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang.*
-  
+   
 1. **Robust Graph Convolutional Networks Against Adversarial Attacks.** KDD 2019. [[paper]](http://pengcui.thumedialab.com/papers/RGCN.pdf) 
 
    *Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu.*
