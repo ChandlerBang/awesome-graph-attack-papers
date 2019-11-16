@@ -10,7 +10,7 @@ It is divided into 3 parts,
 
    *Jinyin Chen, Yixian Chen, Lihong Chen, Minghao Zhao, and Qi Xuan.*
 
-1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. 
+1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** NeurIPS 2019. [[paper]](https://arxiv.org/pdf/1910.14147.pdf)
 
    *Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh.*
 
@@ -48,6 +48,14 @@ It is divided into 3 parts,
 
 
 ## Defense
+1. **GraphDefense: Towards Robust Graph Convolutional Networks.** Arxiv 2019. [[paper]](https://arxiv.org/pdf/1911.04429v1.pdf)
+
+   *Xiaoyun Wang, Xuanqing Liu, Cho-Jui Hsieh.*
+
+1. **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs.** WSDM 2020. 
+
+   *Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis.*
+   
 1. **Certifiable Robustness to Graph Perturbations.** NeurIPS 2019. [[paper]](https://arxiv.org/pdf/1910.14356.pdf)[[code]](https://www.kdd.in.tum.de/research/graph-cert/)
 
    *Aleksandar Bojchevski, Stephan Günnemann.*
