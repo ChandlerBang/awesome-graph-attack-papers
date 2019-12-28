@@ -6,6 +6,16 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
+
+1. **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models.** AAAI 2020. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)
+
+   *Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang.*
+
+
+1. **Time-aware Gradient Attack on Dynamic Network Link Prediction.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1911.10561.pdf)
+
+   *Jinyin Chen, Jian Zhang, Zhi Chen, Min Du, Feifei Li, Qi Xuan.*
+
 1. **Multiscale Evolutionary Perturbation Attack on Community Detection.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09741.pdf)
 
    *Jinyin Chen, Yixian Chen, Lihong Chen, Minghao Zhao, and Qi Xuan.*
