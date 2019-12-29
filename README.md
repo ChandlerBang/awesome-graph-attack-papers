@@ -66,7 +66,7 @@ It is divided into 3 parts,
 
    *Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis.*
    
-1. **Certifiable Robustness to Graph Perturbations.** NeurIPS 2019. [[paper]](https://arxiv.org/pdf/1910.14356.pdf)[[code]](https://www.kdd.in.tum.de/research/graph-cert/)
+1. **Certifiable Robustness to Graph Perturbations.** NeurIPS 2019. [[paper]](https://arxiv.org/pdf/1910.14356.pdf)[[code]](https://github.com/abojchevski/graph_cert)
 
    *Aleksandar Bojchevski, Stephan Günnemann.*
 
