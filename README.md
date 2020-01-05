@@ -7,7 +7,7 @@ It is divided into 3 parts,
 
 ## Attacks
 
-1. **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models.** AAAI 2020. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)
+1. **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models.** AAAI 2020. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)[[code]](https://github.com/SwiftieH/GFAttack)
 
    *Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang.*
 
