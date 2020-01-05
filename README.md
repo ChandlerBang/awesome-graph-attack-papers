@@ -1,5 +1,5 @@
 # graph-attack-papers
-This repository aims to provide links to works about adversarial attacks on graph data.
+This repository aims to provide links to works about adversarial attacks on graph data or GNN(Graph Neural Networks).
 It is divided into 3 parts, 
 * Adversarial Attacks
 * Defense (Robust Traing/ Robust GCN)
