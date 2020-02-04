@@ -6,6 +6,9 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
+1. ** Node Injection Aacks on Graphs via Reinforcement Learning.** WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
+
+   *Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant Honavar.*
 
 1. **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models.** AAAI 2020. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)[[code]](https://github.com/SwiftieH/GFAttack)
 
@@ -62,7 +65,7 @@ It is divided into 3 parts,
 
    *Xiaoyun Wang, Xuanqing Liu, Cho-Jui Hsieh.*
 
-1. **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs.** WSDM 2020. 
+1. **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs.** WSDM 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371789?download=true) 
 
    *Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis.*
    
