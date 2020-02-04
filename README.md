@@ -6,7 +6,7 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
-1. ** Node Injection Attacks on Graphs via Reinforcement Learning.** WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
+1. **Node Injection Attacks on Graphs via Reinforcement Learning.** WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
 
    *Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant Honavar.*
 
