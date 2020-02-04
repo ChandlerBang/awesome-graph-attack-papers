@@ -6,7 +6,7 @@ It is divided into 3 parts,
 * Survey
 
 ## Attacks
-1. ** Node Injection Aacks on Graphs via Reinforcement Learning.** WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
+1. ** Node Injection Attacks on Graphs via Reinforcement Learning.** WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
 
    *Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant Honavar.*
 
@@ -105,7 +105,7 @@ It is divided into 3 parts,
 
    *Ming Jin, Heng Chang, Wenwu Zhu, Somayeh Sojoudi.* 
 
-1. **Latent Adversarial Training of Graph Convolution Networks** ICML 2019 workshop. [[paper]](https://graphreason.github.io/papers/35.pdf)
+1. **Latent Adversarial Training of Graph Convolution Networks.** ICML 2019 workshop. [[paper]](https://graphreason.github.io/papers/35.pdf)
 
    *Hongwei Jin, Xinhua Zhang.*
 
