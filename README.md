@@ -73,6 +73,10 @@ It is divided into 3 parts,
 
    *Aleksandar Bojchevski, Stephan Günnemann.*
 
+1. **Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure** TKDE 2019. [[paper]](https://arxiv.org/pdf/1902.08226.pdf)
+
+   *Fuli Feng, Xiangnan He, Jie Tang, Tat-Seng Chua.*
+
 1. **Edge Dithering for Robust Adaptive Graph Convolutional Networks.** arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09590.pdf)
 
    *Vassilis N. Ioannidis, Georgios B. Giannakis.*
