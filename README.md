@@ -5,7 +5,26 @@ It is divided into 3 parts,
 * Defense (Robust Traing/ Robust GCN)
 * Survey
 
+## Surveys
+1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.** arxiv, 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
+   
+   *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Jiliang Tang.*
+
+1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review.** arxiv, 2019. [[paper]](https://arxiv.org/pdf/1909.08072.pdf)
+
+   *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain.*
+
+1. **Adversarial Attack and Defense on Graph Data: A Survey.** arviv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf) 
+
+    *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li.*
+   
+
+
 ## Attacks
+1. **Graph Universal Adversarial Attacks: A Few Bad Actors Ruin Graph Learning Models.** arxiv, 2020. [[paper]](https://arxiv.org/abs/2002.04784)
+
+   *Xiao Zang, Yi Xie, Jie Chen, Bo Yuan.**
+
 1. **Node Injection Attacks on Graphs via Reinforcement Learning.** WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
 
    *Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant Honavar.*
@@ -122,14 +141,7 @@ It is divided into 3 parts,
    *Fuli Feng, Xiangnan He, Jie Tang, Tat-Seng Chua.*
 
 
-## Surveys
-1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review.** arxiv, 2019. [[paper]](https://arxiv.org/pdf/1909.08072.pdf)
 
-   *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain*
-
-1. **Adversarial Attack and Defense on Graph Data: A Survey.** arviv 2018. [[paper]](https://arxiv.org/pdf/1812.10528.pdf)
-
-    *Lichao Sun, Ji Wang, Philip S. Yu, Bo Li.*
     
 ### Relevant Workshops
 
