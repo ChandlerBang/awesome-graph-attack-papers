@@ -68,7 +68,7 @@ This repository aims to provide links to works about adversarial attacks and def
 1. **GraphDefense: Towards Robust Graph Convolutional Networks.**
    *Xiaoyun Wang, Xuanqing Liu, Cho-Jui Hsieh.*  arxiv 2019. [[paper]](https://arxiv.org/pdf/1911.04429v1.pdf)
 1. **All You Need is Low (Rank): Defending Against Adversarial Attacks on Graphs.**
-   *Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis.*  WSDM 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371789?download=true) 
+   *Negin Entezari, Saba Al-Sayouri, Amirali Darvishzadeh, and Evangelos E. Papalexakis.*  WSDM 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371789?download=true) [[code]](https://github.com/DSE-MSU/DeepRobust/)
 1. **Graph Adversarial Training: Dynamically Regularizing Based on Graph Structure**
    *Fuli Feng, Xiangnan He, Jie Tang, Tat-Seng Chua.*  TKDE 2019. [[paper]](https://arxiv.org/pdf/1902.08226.pdf)
 1. **Edge Dithering for Robust Adaptive Graph Convolutional Networks.**
