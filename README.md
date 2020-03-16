@@ -29,19 +29,19 @@ This repository aims to provide links to works about adversarial attacks and def
 1. **Multiscale Evolutionary Perturbation Attack on Community Detection.** 
    *Jinyin Chen, Yixian Chen, Lihong Chen, Minghao Zhao, and Qi Xuan.* arxiv 2019. [[paper]](https://arxiv.org/pdf/1910.09741.pdf)
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**
-   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf)
+   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf) [[code]](https://github.com/DSE-MSU/DeepRobust)
 1. **Data Poisoning Attack against Knowledge Graph Embedding.**
 *Hengtong Zhang, Tianhang Zheng, Jing Gao, Chenglin Miao, Lu Su, Yaliang Li, Kui Ren.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1904.12052.pdf)
 1. **Attacking Graph-based Classification via Manipulating the Graph Structure.**
 *Binghui Wang, Neil Zhenqiang Gong.* CCS 2019. [[paper]](https://arxiv.org/pdf/1903.00553.pdf)
 1. **A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models.** 
-   *Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1908.01297.pdf)[[code]](https://github.com/SwiftieH/GFAttack)
+   *Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang.* AAAI 2020. [[paper]](https://arxiv.org/pdf/1908.01297.pdf) [[code]](https://github.com/SwiftieH/GFAttack)
 1. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** 
    *Aleksandar Bojchevski, Stephan Günnemann.* ICML 2019. [[paper]](https://arxiv.org/pdf/1809.01093.pdf) [[code]](https://github.com/abojchevski/node_embedding_attack)
 1. **Adversarial Attack on Graph Structured Data.**
    *Hanjun Dai, Hui Li, Tian Tian, Xin Huang, Lin Wang, Jun Zhu, Le Song.* ICML 2018. [[paper]](https://arxiv.org/pdf/1806.02371.pdf) [[code]](https://github.com/Hanjun-Dai/graph_adversarial_attack)
 1. **Fast Gradient Attack on Network Embedding.**
-*Jinyin Chen, Yangyang Wu, Xuanheng Xu, Yixian Chen, Haibin Zheng, Qi Xuan.* arxiv 2018. [[paper]](https://arxiv.org/pdf/1809.02797.pdf)
+*Jinyin Chen, Yangyang Wu, Xuanheng Xu, Yixian Chen, Haibin Zheng, Qi Xuan.* arxiv 2018. [[paper]](https://arxiv.org/pdf/1809.02797.pdf) [[code]](https://github.com/DSE-MSU/DeepRobust)
 1. **Adversarial Attacks on Neural Networks for Graph Data.**
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*  KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
@@ -51,9 +51,9 @@ This repository aims to provide links to works about adversarial attacks and def
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** 
    *Xuanqing Liu, Si Si, Xiaojin(Jerry) Zhu, Yang Li, Cho-Jui Hsieh.* NeurIPS 2019. [[paper]](https://arxiv.org/pdf/1910.14147.pdf)
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**
-   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf)
+   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf) [[code]](https://github.com/DSE-MSU/DeepRobust)
 1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.** 
-   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* ICJAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf)
+   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* ICJAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf) [[code]](https://github.com/KaidiXu/GCN_ADV_Train)
 1. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** 
    *Aleksandar Bojchevski, Stephan Günnemann.* ICML 2019. [[paper]](https://arxiv.org/pdf/1809.01093.pdf) [[code]](https://github.com/abojchevski/node_embedding_attack)
 1. **Adversarial Attacks on Graph Neural Networks via Meta Learning.**
@@ -80,9 +80,9 @@ This repository aims to provide links to works about adversarial attacks and def
 1. **Robust Graph Convolutional Networks Against Adversarial Attacks.**
    *Dingyuan Zhu, Ziwei Zhang, Peng Cui, Wenwu Zhu.*  KDD 2019. [[paper]](http://pengcui.thumedialab.com/papers/RGCN.pdf) 
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**
-   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*   IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf)
+   *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*   IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf) [[code]](https://github.com/DSE-MSU/DeepRobust)
 1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.**
-   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*  ICJAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf)
+   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*  ICJAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf) [[code]](https://github.com/KaidiXu/GCN_ADV_Train)
 1. **Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering.**
    *Ming Jin, Heng Chang, Wenwu Zhu, Somayeh Sojoudi.*  arxiv 2019. [[paper]](https://arxiv.org/abs/1905.10029)
 1. **Latent Adversarial Training of Graph Convolution Networks.**
