@@ -1,8 +1,9 @@
 # Awesome Graph Attack and Defense Papers
-<!--[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)-->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This repository aims to provide links to works about adversarial attacks and defenses on graph data or GNN (Graph Neural Networks).
+<div align=center><img src="https://github.com/DSE-MSU/DeepRobust/blob/master/adversary_examples/graph_attack_example.png" width="500" /></div>
 
 ### Contents
 
@@ -14,7 +15,7 @@ This repository aims to provide links to works about adversarial attacks and def
 * [4. Certified Robustness Papers](#4-certified-robustness-papers)
 
 ## 0. Toolbox
-Github Repository: [[DeepRobust]](https://github.com/DSE-MSU/DeepRobust)
+Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://github.com/DSE-MSU/DeepRobust))
 ## 1. Survey Papers
 1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.**
    *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Jiliang Tang.*  arxiv, 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
@@ -25,6 +26,8 @@ Github Repository: [[DeepRobust]](https://github.com/DSE-MSU/DeepRobust)
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Scalable Attack on Graph Data by Injecting Vicious Nodes.** 
+*Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
 1. **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria.**
 *Jason Gaitonde, Jon Kleinberg, Eva Tardos.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2002.01249.pdf)
 1. **MGA: Momentum Gradient Attack on Network.**
@@ -70,11 +73,13 @@ Github Repository: [[DeepRobust]](https://github.com/DSE-MSU/DeepRobust)
 
 
 ## 3. Defense Papers
-1. **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning**
+1. **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering.**
+*Shaowen Peng, Tsunenori Mine.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
+1. **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning.**
 *Vassilis N. Ioannidis, Antonio G. Marques, Georgios B. Giannakis.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2003.07729.pdf)
-1. **Topological Effects on Attacks Against Vertex Classification**
+1. **Topological Effects on Attacks Against Vertex Classification.**
 *Benjamin A. Miller, Mustafa Çamurcu, Alexander J. Gomez, Kevin Chan, Tina Eliassi-Rad.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2003.05822.pdf)
-1. **Towards an Efficient and General Framework of Robust Training for Graph Neural Networks**
+1. **Towards an Efficient and General Framework of Robust Training for Graph Neural Networks.**
 *Kaidi Xu, Sijia Liu, Pin-Yu Chen, Mengshu Sun, Caiwen Ding, Bhavya Kailkhura, Xue Lin.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2002.10947.pdf)
 1. **How Robust Are Graph Neural Networks to Structural Noise?**
 *James Fox, Sivasankaran Rajamanickam.* arxiv 2020. [[paper]](https://arxiv.org/pdf/1912.10206.pdf)
