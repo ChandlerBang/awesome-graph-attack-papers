@@ -26,8 +26,10 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Attacking Black-box Recommendations via Copying Cross-domain User Profiles.** 
+*Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.* arxiv 2020. [[paper]](https://arxiv.org/abs/2005.08147)
 1. **Scalable Attack on Graph Data by Injecting Vicious Nodes.** 
-*Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
+*Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
 1. **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria.**
 *Jason Gaitonde, Jon Kleinberg, Eva Tardos.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2002.01249.pdf)
 1. **MGA: Momentum Gradient Attack on Network.**
@@ -73,6 +75,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 
 ## 3. Defense Papers
+1. **Graph Structure Learning for Robust Graph Neural Networks.**
+*Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*. KDD 2020. [[paper]](https://arxiv.org/abs/2005.10203) [[code]](https://github.com/ChandlerBang/Pro-GNN)
 1. **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering.**
 *Shaowen Peng, Tsunenori Mine.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
 1. **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning.**
