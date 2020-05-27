@@ -65,7 +65,7 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**
    *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf) [[code]](https://github.com/DSE-MSU/DeepRobust)
 1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.** 
-   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* ICJAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf) [[code]](https://github.com/KaidiXu/GCN_ADV_Train)
+   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* IJCAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf) [[code]](https://github.com/KaidiXu/GCN_ADV_Train)
 1. **Adversarial Attacks on Node Embeddings via Graph Poisoning.** 
    *Aleksandar Bojchevski, Stephan Günnemann.* ICML 2019. [[paper]](https://arxiv.org/pdf/1809.01093.pdf) [[code]](https://github.com/abojchevski/node_embedding_attack)
 1. **Adversarial Attacks on Graph Neural Networks via Meta Learning.**
@@ -104,7 +104,7 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 1. **Adversarial Examples on Graph Data: Deep Insights into Attack and Defense.**
    *Huijun Wu, Chen Wang, Yuriy Tyshetskiy, Andrew Docherty, Kai Lu, Liming Zhu.*   IJCAI 2019. [[paper]](https://arxiv.org/pdf/1903.01610.pdf) [[code]](https://github.com/DSE-MSU/DeepRobust)
 1. **Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective.**
-   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*  ICJAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf) [[code]](https://github.com/KaidiXu/GCN_ADV_Train)
+   *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.*  IJCAI 2019. [[paper]](https://arxiv.org/pdf/1906.04214.pdf) [[code]](https://github.com/KaidiXu/GCN_ADV_Train)
 1. **Power up! Robust Graph Convolutional Network against Evasion Attacks based on Graph Powering.**
    *Ming Jin, Heng Chang, Wenwu Zhu, Somayeh Sojoudi.*  arxiv 2019. [[paper]](https://arxiv.org/abs/1905.10029)
 1. **Latent Adversarial Training of Graph Convolution Networks.**
