@@ -58,6 +58,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*  KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
 ### 2.2 Untargeted Attack
+1. **Adversarial Attack on Hierarchical Graph Pooling Neural Networks.** 
+   *Haoteng Tang, Guixiang Ma, Yurong Chen, Lei Guo, Wei Wang, Bo Zeng, Liang Zhan.* arxiv 2020. [[paper](https://arxiv.org/abs/2005.11560)
 1. **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach.** 
    *Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant Honavar.* WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** 
