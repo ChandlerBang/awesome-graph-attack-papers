@@ -59,7 +59,7 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 ### 2.2 Untargeted Attack
 1. **Adversarial Attack on Hierarchical Graph Pooling Neural Networks.** 
-   *Haoteng Tang, Guixiang Ma, Yurong Chen, Lei Guo, Wei Wang, Bo Zeng, Liang Zhan.* arxiv 2020. [[paper](https://arxiv.org/abs/2005.11560)
+   *Haoteng Tang, Guixiang Ma, Yurong Chen, Lei Guo, Wei Wang, Bo Zeng, Liang Zhan.* arxiv 2020. [[paper]](https://arxiv.org/abs/2005.11560)
 1. **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach.** 
    *Yiwei Sun, Suhang Wang, Xianfeng Tang, Tsung-Yu Hsieh, Vasant Honavar.* WWW 2020. [[paper]](https://arxiv.org/pdf/1909.06543.pdf)
 1. **A Unified Framework for Data Poisoning Attack to Graph-based Semi-supervised Learning.** 
@@ -77,8 +77,13 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 
 ## 3. Defense Papers
+1. **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing.** ICML 2020.
+1. **Robust Graph Representation Learning via Neural Sparsification.** ICML 2020.
+1. **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations.** KDD 2020.
+1. **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning.** KDD 2020.
 1. **Graph Structure Learning for Robust Graph Neural Networks.**
 *Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*. KDD 2020. [[paper]](https://arxiv.org/abs/2005.10203) [[code]](https://github.com/ChandlerBang/Pro-GNN)
+1. **EDoG: Adversarial Edge Detection For Graph Neural Networks.**
 1. **A Robust Hierarchical Graph Convolutional Network Model for Collaborative Filtering.**
 *Shaowen Peng, Tsunenori Mine.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
 1. **Tensor Graph Convolutional Networks for Multi-relational and Robust Learning.**
