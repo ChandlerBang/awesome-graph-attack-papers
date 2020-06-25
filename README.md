@@ -77,6 +77,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 
 ## 3. Defense Papers
+1. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** 
+*Xiang Zhang, Marinka Zitnik.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2006.08149)
 1. **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing.** ICML 2020.
 1. **Robust Graph Representation Learning via Neural Sparsification.** ICML 2020.
 1. **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations.** KDD 2020.
