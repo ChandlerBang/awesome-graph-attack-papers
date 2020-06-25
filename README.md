@@ -19,6 +19,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 ## 1. Survey Papers
 1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.**
    *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Jiliang Tang.*  arxiv, 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
+1. **A Survey of Adversarial Learning on Graphs.**
+*Liang Chen, Jintang Li, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng.* arxiv, 2020. [[paper]](https://arxiv.org/abs/2003.05730)
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review.**
    *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain.* arxiv, 2019. [[paper]](https://arxiv.org/pdf/1909.08072.pdf)
 1. **Adversarial Attack and Defense on Graph Data: A Survey.**
@@ -78,7 +80,7 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 ## 3. Defense Papers
 1. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** 
-*Xiang Zhang, Marinka Zitnik.* Arxiv 2020. [[paper]](https://arxiv.org/abs/2006.08149)
+*Xiang Zhang, Marinka Zitnik.* arxiv 2020. [[paper]](https://arxiv.org/abs/2006.08149)
 1. **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing.** ICML 2020.
 1. **Robust Graph Representation Learning via Neural Sparsification.** ICML 2020.
 1. **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations.** KDD 2020.
