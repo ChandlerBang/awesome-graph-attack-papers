@@ -28,8 +28,10 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Graph Backdoor.**
+  *Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang.* arxiv 2020. [[paper]](https://arxiv.org/abs/2006.11890)
 1. **Attacking Black-box Recommendations via Copying Cross-domain User Profiles.** 
-*Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.* arxiv 2020. [[paper]](https://arxiv.org/abs/2005.08147)
+   *Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, Qing Li.* arxiv 2020. [[paper]](https://arxiv.org/abs/2005.08147)
 1. **Scalable Attack on Graph Data by Injecting Vicious Nodes.** 
 *Jihong Wang, Minnan Luo, Fnu Suya, Jundong Li, Zijiang Yang, Qinghua Zheng.* arxiv 2020. [[paper]](https://arxiv.org/pdf/2004.14734.pdf)
 1. **Adversarial Attacks to Scale-Free Networks: Testing the Robustness of Physical Criteria.**
@@ -60,6 +62,10 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*  KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
 ### 2.2 Untargeted Attack
+1. **Backdoor Attacks to Graph Neural Networks.**
+  *Zaixi Zhang, Jinyuan Jia, Binghui Wang, Neil Zhenqiang Gong.* arxiv 2020. [paper](https://arxiv.org/abs/2006.11165)
+1. **Practical Adversarial Attacks on Graph Neural Networks.**
+   *Jiaqi Ma, Shuangrui Ding, Qiaozhu Mei.*  ICML workshop 2020. [[paper]](https://grlplus.github.io/papers/8.pdf)
 1. **Adversarial Attack on Hierarchical Graph Pooling Neural Networks.** 
    *Haoteng Tang, Guixiang Ma, Yurong Chen, Lei Guo, Wei Wang, Bo Zeng, Liang Zhan.* arxiv 2020. [[paper]](https://arxiv.org/abs/2005.11560)
 1. **Non-target-specific Node Injection Attacks on Graph Neural Networks: A Hierarchical Reinforcement Learning Approach.** 
@@ -79,6 +85,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 
 ## 3. Defense Papers
+1. **Robust Collective Classification against Structural Attacks.**
+   *Kai Zhou, Yevgeniy Vorobeychik.* UAI 2020. [[paper]](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf)
 1. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** 
 *Xiang Zhang, Marinka Zitnik.* arxiv 2020. [[paper]](https://arxiv.org/abs/2006.08149)
 1. **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing.** ICML 2020.
