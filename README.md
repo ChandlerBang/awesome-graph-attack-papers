@@ -89,9 +89,7 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
    *Kai Zhou, Yevgeniy Vorobeychik.* UAI 2020. [[paper]](http://www.auai.org/uai2020/proceedings/119_main_paper.pdf)
 1. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** 
 *Xiang Zhang, Marinka Zitnik.* arxiv 2020. [[paper]](https://arxiv.org/abs/2006.08149)
-1. **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing.** ICML 2020.
 1. **Robust Graph Representation Learning via Neural Sparsification.** ICML 2020.
-1. **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations.** KDD 2020.
 1. **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning.** KDD 2020.
 1. **Graph Structure Learning for Robust Graph Neural Networks.**
 *Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*. KDD 2020. [[paper]](https://arxiv.org/abs/2005.10203) [[code]](https://github.com/ChandlerBang/Pro-GNN)
@@ -134,6 +132,10 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
    *Fuli Feng, Xiangnan He, Jie Tang, Tat-Seng Chua.*   arXiv, 2019. [[paper]](https://arxiv.org/pdf/1902.08226.pdf)
 
 ## 4. Certified Robustness Papers
+1. **Adversarial Immunization for Improving Certifiable Robustness on Graphs.** Arxiv 2020. [[paper]](https://arxiv.org/abs/2007.09647)
+1. **Certified Robustness of Graph Neural Networks against Adversarial Structural Perturbation.** Arxiv 2020. [[paper]](https://arxiv.org/abs/2008.10715)
+1. **Efficient Robustness Certificates for Graph Neural Networks via Sparsity-Aware Randomized Smoothing.** ICML 2020. [[paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/6890-Paper.pdf) [[code]](https://github.com/abojchevski/sparse_smoothing)
+1. **Certifiable Robustness of Graph Convolutional Networks under Structure Perturbations.** KDD 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403217) [[code]](https://github.com/danielzuegner/robust-gcn-structure)
 1. **Certified Robustness of Community Detection against Adversarial Structural Perturbation via Randomized Smoothing.**
 *Jinyuan Jia, Binghui Wang, Xiaoyu Cao, Neil Zhenqiang Gong.* WWW 2020. [[paper]](https://arxiv.org/pdf/2002.03421.pdf)
 1. **Certifiable Robustness to Graph Perturbations.**
