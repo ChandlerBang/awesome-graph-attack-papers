@@ -28,6 +28,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Adversarial Attack on Large Scale Graph.** arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.03488.pdf)
+1. **Efficient Evasion Attacks to Graph Neural Networks via Influence Function.** arxiv 2020. [[paper]](https://arxiv.org/abs/2009.00203)
 1. **Graph Backdoor.**
   *Zhaohan Xi, Ren Pang, Shouling Ji, Ting Wang.* arxiv 2020. [[paper]](https://arxiv.org/abs/2006.11890)
 1. **Attacking Black-box Recommendations via Copying Cross-domain User Profiles.** 
