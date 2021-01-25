@@ -65,6 +65,8 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*  KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
 ### 2.2 Untargeted Attack
+1. **Attacking Graph Neural Networks at Scale** AAAI workshop 2021. 
+   *Simon Geisler, Daniel Zügner, Aleksandar Bojchevski, Stephan Günnemann* [[paper]](https://www.dropbox.com/s/ddrwoswpz3wwx40/Robust_GNNs_at_Scale__AAAI_Workshop_2020_CameraReady.pdf?dl=0)
 1. **Towards More Practical Adversarial Attacks on Graph Neural Networks.**
    *Jiaqi Ma, Shuangrui Ding, Qiaozhu Mei.*  NeurIPS 2020. [[paper]](https://arxiv.org/abs/2006.05057) [[code]](https://github.com/Mark12Ding/GNN-Practical-Attack)
 1. **Backdoor Attacks to Graph Neural Networks.**
