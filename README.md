@@ -15,10 +15,13 @@ This repository aims to provide links to works about adversarial attacks and def
 * [4. Certified Robustness Papers](#4-certified-robustness-papers)
 
 ## 0. Toolbox
-Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://github.com/DSE-MSU/DeepRobust))
+Github Repository: **DeepRobust** ([https://github.com/DSE-MSU/DeepRobust](https://github.com/DSE-MSU/DeepRobust))
+
+Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and Defenses.** [[paper]](https://arxiv.org/abs/2005.06149)[[documentation]](https://deeprobust.readthedocs.io/en/latest/)
+
 ## 1. Survey Papers
 1. **Adversarial Attacks and Defenses on Graphs: A Review and Empirical Study.**
-   *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Jiliang Tang.*  arxiv, 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
+   *Wei Jin, Yaxin Li, Han Xu, Yiqi Wang, Shuiwang Ji, Charu C Aggarwal, Jiliang Tang.*  SIGKDD Explorations 2020. [[paper]](https://arxiv.org/abs/2003.00653) [[code]](https://github.com/DSE-MSU/DeepRobust/)
 1. **A Survey of Adversarial Learning on Graphs.**
 *Liang Chen, Jintang Li, Jiaying Peng, Tao Xie, Zengxu Cao, Kun Xu, Xiangnan He, Zibin Zheng.* arxiv, 2020. [[paper]](https://arxiv.org/abs/2003.05730)
 1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review.**
@@ -28,6 +31,7 @@ Github Repository: DeepRobust ([https://github.com/DSE-MSU/DeepRobust](https://g
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation.** ICLR 2021. [[paper]](https://arxiv.org/abs/2010.12872)[[code]](https://github.com/INK-USC/deceive-KG-models)
 1. **Adversarial Attacks on Deep Graph Matching.** NeurIPS 2020. [[paper]](https://papers.nips.cc/paper/2020/file/ef126722e64e98d1c33933783e52eafc-Paper.pdf)
 1. **Adversarial Attack on Large Scale Graph.** arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.03488.pdf)
 1. **Efficient Evasion Attacks to Graph Neural Networks via Influence Function.** arxiv 2020. [[paper]](https://arxiv.org/abs/2009.00203)
