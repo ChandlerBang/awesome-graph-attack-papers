@@ -94,13 +94,16 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 
 ## 3. Defense Papers
-1. **Node Similarity Preserving Graph Convolutional Networks.** WSDM 2021. [[paper]](https://arxiv.org/abs/2011.09643) [[code]](https://github.com/ChandlerBang/SimP-GCN)
-1. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2006.08149)
-1. **Graph Contrastive Learning with Augmentations.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL)
-1. **Graph Information Bottleneck.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2010.12811) [[code]](https://github.com/snap-stanford/GIB)
-1. **Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/1906.01852) [[code]](https://github.com/ebonilla/VGCN)
-1. **Reliable Graph Neural Networks via Robust Aggregation.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2010.15651) [[code]](https://github.com/sigeisler/reliable_gnn_via_robust_aggregation)
-1. **Graph Structure Learning for Robust Graph Neural Networks.**
+1. **Elastic Graph Neural Networks.** ICML 2021. [[paper]](http://proceedings.mlr.press/v139/liu21k.html) [[code]](https://github.com/lxiaorui/ElasticGNN)
+1. **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks.** ICML 2021. [[paper]](http://proceedings.mlr.press/v139/zhao21e/zhao21e.pdf)
+1. **Integrated Defense for Resilient Graph Matching.** ICML 2021. [[paper]](http://proceedings.mlr.press/v139/ren21c/ren21c.pdf) 
+3. **Node Similarity Preserving Graph Convolutional Networks.** WSDM 2021. [[paper]](https://arxiv.org/abs/2011.09643) [[code]](https://github.com/ChandlerBang/SimP-GCN)
+4. **GNNGuard: Defending Graph Neural Networks against Adversarial Attacks.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2006.08149)
+5. **Graph Contrastive Learning with Augmentations.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2010.13902) [[code]](https://github.com/Shen-Lab/GraphCL)
+6. **Graph Information Bottleneck.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2010.12811) [[code]](https://github.com/snap-stanford/GIB)
+7. **Variational Inference for Graph Convolutional Networks in the Absence of Graph Data and Adversarial Settings.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/1906.01852) [[code]](https://github.com/ebonilla/VGCN)
+8. **Reliable Graph Neural Networks via Robust Aggregation.** NeurIPS 2020. [[paper]](https://arxiv.org/abs/2010.15651) [[code]](https://github.com/sigeisler/reliable_gnn_via_robust_aggregation)
+9. **Graph Structure Learning for Robust Graph Neural Networks.**
 *Wei Jin, Yao Ma, Xiaorui Liu, Xianfeng Tang, Suhang Wang, Jiliang Tang*. KDD 2020. [[paper]](https://arxiv.org/abs/2005.10203) [[code]](https://github.com/ChandlerBang/Pro-GNN)
 1. **Robust Detection of Adaptive Spammers by Nash Reinforcement Learning.** KDD 2020. [[paper]](https://arxiv.org/abs/2006.06069) [[code]](https://github.com/YingtongDou/Nash-Detect)
 1. **Robust Graph Representation Learning via Neural Sparsification.** ICML 2020. [[paper]](https://proceedings.icml.cc/static/paper_files/icml/2020/2611-Paper.pdf)
