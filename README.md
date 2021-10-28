@@ -5,12 +5,28 @@
 This repository aims to provide links to works about adversarial attacks and defenses on graph data or GNN (Graph Neural Networks).
 <div align=center><img src="https://github.com/DSE-MSU/DeepRobust/blob/master/adversary_examples/graph_attack_example.png" width="500" /></div>
 
+If you find this repo helpful, we would really appreciate it if you could cite our survey.
+```
+@article{10.1145/3447556.3447566,
+author = {Jin, Wei and Li, Yaxing and Xu, Han and Wang, Yiqi and Ji, Shuiwang and Aggarwal, Charu and Tang, Jiliang},
+title = {Adversarial Attacks and Defenses on Graphs},
+year = {2021},
+publisher = {Association for Computing Machinery},
+journal = {SIGKDD Explor. Newsl.},
+pages = {19–34},
+numpages = {16}
+}
+
+```
+
+
 ### Contents
 
 * [1. Survey Papers](#1-survey-papers)
 * [2. Attack Papers](#2-attack-papers) (classified according to attack goal)
 	* [2.1 Targeted Attack](#21-targeted-attack)
 	* [2.2 Untargeted Attack](#22-untargeted-attack) 
+	* [2.3 Attacks on Combinatorial Problems](#23-attacks-on-combinatorial-problems)
 * [3. Defense Papers](#3-defense-papers)
 * [4. Certified Robustness Papers](#4-certified-robustness-papers)
 
@@ -31,6 +47,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation.** ICLR 2021. [[paper]](https://arxiv.org/abs/2010.12872)[[code]](https://github.com/INK-USC/deceive-KG-models)
 1. **Adversarial Attacks on Deep Graph Matching.** NeurIPS 2020. [[paper]](https://papers.nips.cc/paper/2020/file/ef126722e64e98d1c33933783e52eafc-Paper.pdf)
 1. **Adversarial Attack on Large Scale Graph.** arxiv 2020. [[paper]](https://arxiv.org/pdf/2009.03488.pdf)
@@ -69,6 +86,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*  KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
 ### 2.2 Untargeted Attack
+1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Attacking Graph Neural Networks at Scale.** 
    *Simon Geisler, Daniel Zügner, Aleksandar Bojchevski, Stephan Günnemann.* AAAI workshop 2021. [[paper]](https://www.dropbox.com/s/ddrwoswpz3wwx40/Robust_GNNs_at_Scale__AAAI_Workshop_2020_CameraReady.pdf?dl=0)
 1. **Towards More Practical Adversarial Attacks on Graph Neural Networks.**
@@ -92,8 +110,11 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 1. **Attacking Graph Convolutional Networks via Rewiring.**
    *Yao Ma, Suhang Wang, Lingfei Wu, Jiliang Tang.*  arxiv 2019. [[paper]](https://arxiv.org/pdf/1906.03750.pdf)
 
+### 2.3 Attacks on Combinatorial Problems
+1. **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness.** arXiv 2021. [[paper]](https://arxiv.org/abs/2110.10942)
 
 ## 3. Defense Papers
+1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Elastic Graph Neural Networks.** ICML 2021. [[paper]](http://proceedings.mlr.press/v139/liu21k.html) [[code]](https://github.com/lxiaorui/ElasticGNN)
 1. **Expressive 1-Lipschitz Neural Networks for Robust Multiple Graph Learning against Adversarial Attacks.** ICML 2021. [[paper]](http://proceedings.mlr.press/v139/zhao21e/zhao21e.pdf)
 1. **Integrated Defense for Resilient Graph Matching.** ICML 2021. [[paper]](http://proceedings.mlr.press/v139/ren21c/ren21c.pdf) 
