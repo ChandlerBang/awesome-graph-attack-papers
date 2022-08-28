@@ -47,6 +47,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Transferable Graph Backdoor Attack.**  RAID 2022. [[paper]](https://arxiv.org/abs/2207.00425)
 1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation.** ICLR 2021. [[paper]](https://arxiv.org/abs/2010.12872)[[code]](https://github.com/INK-USC/deceive-KG-models)
 1. **Adversarial Attacks on Deep Graph Matching.** NeurIPS 2020. [[paper]](https://papers.nips.cc/paper/2020/file/ef126722e64e98d1c33933783e52eafc-Paper.pdf)
