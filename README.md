@@ -47,6 +47,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 
 ## 2. Attack Papers
 ### 2.1 Targeted Attack
+1. **Are Defenses for Graph Neural Networks Robust?** NeurIPS 2022. [[paper]](https://www.cs.cit.tum.de/daml/are-gnn-defenses-robust/) [[code]](http://github.com/LoadingByte/are-gnn-defenses-robust)
 1. **Transferable Graph Backdoor Attack.**  RAID 2022. [[paper]](https://arxiv.org/abs/2207.00425)
 1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Learning to Deceive Knowledge Graph Augmented Models via Targeted Perturbation.** ICLR 2021. [[paper]](https://arxiv.org/abs/2010.12872)[[code]](https://github.com/INK-USC/deceive-KG-models)
@@ -87,6 +88,7 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
    *Daniel Zügner, Amir Akbarnejad, Stephan Günnemann.*  KDD 2018. [[paper]](https://arxiv.org/pdf/1805.07984.pdf) [[code]](https://github.com/danielzuegner/nettack)
 
 ### 2.2 Untargeted Attack
+1. **Are Defenses for Graph Neural Networks Robust?** NeurIPS 2022. [[paper]](https://www.cs.cit.tum.de/daml/are-gnn-defenses-robust/) [[code]](http://github.com/LoadingByte/are-gnn-defenses-robust)
 1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
 1. **Attacking Graph Neural Networks at Scale.** 
    *Simon Geisler, Daniel Zügner, Aleksandar Bojchevski, Stephan Günnemann.* AAAI workshop 2021. [[paper]](https://www.dropbox.com/s/ddrwoswpz3wwx40/Robust_GNNs_at_Scale__AAAI_Workshop_2020_CameraReady.pdf?dl=0)
