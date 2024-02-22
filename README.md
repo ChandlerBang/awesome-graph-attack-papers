@@ -117,6 +117,8 @@ Corresponding paper: **DeepRobust: A PyTorch Library for Adversarial Attacks and
 1. **Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness.** arXiv 2021. [[paper]](https://arxiv.org/abs/2110.10942)
 
 ## 3. Defense Papers
+1. **Self-Guided Robust Graph Structure Refinement.** WWW 2024 [[paper]](https://arxiv.org/abs/2402.11837) [[code]](https://github.com/yeonjun-in/torch-SG-GSR)
+1. **Similarity Preserving Adversarial Graph Contrastive Learning.** KDD 2023 [[paper]](https://arxiv.org/abs/2306.13854) [[code]](https://github.com/yeonjun-in/torch-SP-AGCL)
 1. **Empowering Graph Representation Learning with Test-Time Graph Transformation.** ICLR 2023 [[paper]](https://openreview.net/forum?id=Lnxl5pr018) [[code]](https://github.com/ChandlerBang/GTrans)
 1. **GARNET: Reduced-Rank Topology Learning for Robust and Scalable Graph Neural Networks.** LoG 2022 [[paper]](https://openreview.net/forum?id=kvwWjYQtmw) [[code]](https://github.com/cornell-zhang/GARNET)
 1. **Robustness of Graph Neural Networks at Scale.** NeurIPS 2021. [[paper]](https://www.in.tum.de/daml/robustness-of-gnns-at-scale/) [[code]](https://github.com/sigeisler/robustness_of_gnns_at_scale)
